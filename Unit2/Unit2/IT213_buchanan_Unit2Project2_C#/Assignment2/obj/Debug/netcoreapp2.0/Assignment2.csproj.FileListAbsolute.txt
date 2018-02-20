@@ -1,0 +1,11 @@
+C:\Users\buchanan\Documents\C#\Unit2\Assignment2\Assignment2\Assignment2\obj\Debug\netcoreapp2.0\Assignment2.csprojResolveAssemblyReference.cache
+C:\Users\buchanan\Documents\C#\Unit2\Assignment2\Assignment2\Assignment2\obj\Debug\netcoreapp2.0\Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\buchanan\Documents\C#\Unit2\Assignment2\Assignment2\Assignment2\obj\Debug\netcoreapp2.0\Assignment2.AssemblyInfoInputs.cache
+C:\Users\buchanan\Documents\C#\Unit2\Assignment2\Assignment2\Assignment2\obj\Debug\netcoreapp2.0\Assignment2.AssemblyInfo.cs
+C:\Users\buchanan\Documents\C#\Unit2\Assignment2\Assignment2\Assignment2\bin\Debug\netcoreapp2.0\Assignment2.deps.json
+C:\Users\buchanan\Documents\C#\Unit2\Assignment2\Assignment2\Assignment2\bin\Debug\netcoreapp2.0\Assignment2.runtimeconfig.json
+C:\Users\buchanan\Documents\C#\Unit2\Assignment2\Assignment2\Assignment2\bin\Debug\netcoreapp2.0\Assignment2.runtimeconfig.dev.json
+C:\Users\buchanan\Documents\C#\Unit2\Assignment2\Assignment2\Assignment2\bin\Debug\netcoreapp2.0\Assignment2.dll
+C:\Users\buchanan\Documents\C#\Unit2\Assignment2\Assignment2\Assignment2\bin\Debug\netcoreapp2.0\Assignment2.pdb
+C:\Users\buchanan\Documents\C#\Unit2\Assignment2\Assignment2\Assignment2\obj\Debug\netcoreapp2.0\Assignment2.dll
+C:\Users\buchanan\Documents\C#\Unit2\Assignment2\Assignment2\Assignment2\obj\Debug\netcoreapp2.0\Assignment2.pdb

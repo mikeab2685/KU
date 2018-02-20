@@ -1,0 +1,11 @@
+C:\Users\buchanan\Documents\C#\Unit 1\Exercise_1\Exercise_1.3\Exercise_1.3\Exercise_1.3\obj\Debug\netcoreapp2.0\Exercise_1.3.csprojResolveAssemblyReference.cache
+C:\Users\buchanan\Documents\C#\Unit 1\Exercise_1\Exercise_1.3\Exercise_1.3\Exercise_1.3\obj\Debug\netcoreapp2.0\Exercise_1.3.csproj.CoreCompileInputs.cache
+C:\Users\buchanan\Documents\C#\Unit 1\Exercise_1\Exercise_1.3\Exercise_1.3\Exercise_1.3\obj\Debug\netcoreapp2.0\Exercise_1.3.AssemblyInfoInputs.cache
+C:\Users\buchanan\Documents\C#\Unit 1\Exercise_1\Exercise_1.3\Exercise_1.3\Exercise_1.3\obj\Debug\netcoreapp2.0\Exercise_1.3.AssemblyInfo.cs
+C:\Users\buchanan\Documents\C#\Unit 1\Exercise_1\Exercise_1.3\Exercise_1.3\Exercise_1.3\bin\Debug\netcoreapp2.0\Exercise_1.3.deps.json
+C:\Users\buchanan\Documents\C#\Unit 1\Exercise_1\Exercise_1.3\Exercise_1.3\Exercise_1.3\bin\Debug\netcoreapp2.0\Exercise_1.3.runtimeconfig.json
+C:\Users\buchanan\Documents\C#\Unit 1\Exercise_1\Exercise_1.3\Exercise_1.3\Exercise_1.3\bin\Debug\netcoreapp2.0\Exercise_1.3.runtimeconfig.dev.json
+C:\Users\buchanan\Documents\C#\Unit 1\Exercise_1\Exercise_1.3\Exercise_1.3\Exercise_1.3\bin\Debug\netcoreapp2.0\Exercise_1.3.dll
+C:\Users\buchanan\Documents\C#\Unit 1\Exercise_1\Exercise_1.3\Exercise_1.3\Exercise_1.3\bin\Debug\netcoreapp2.0\Exercise_1.3.pdb
+C:\Users\buchanan\Documents\C#\Unit 1\Exercise_1\Exercise_1.3\Exercise_1.3\Exercise_1.3\obj\Debug\netcoreapp2.0\Exercise_1.3.dll
+C:\Users\buchanan\Documents\C#\Unit 1\Exercise_1\Exercise_1.3\Exercise_1.3\Exercise_1.3\obj\Debug\netcoreapp2.0\Exercise_1.3.pdb
